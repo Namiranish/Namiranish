@@ -8,17 +8,17 @@
 ## About Me
 
 - 🔭 I’m currently working on: Web Development.
-- 🌱 I’m leaning MERN.
-- 📚 How to reach me: namiranish@gmail.com
+- 📚 I’m leaning MERN.
+- 💻How to reach me: namiranish@gmail.com
 
-## 📲 Connect with me
+## 🔗 Connect with me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/namira-anis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/namira-anis" height="30" width="40" /></a>
 </p>
 
 ##
-<h3 align="left">💻Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- CSS -->
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">

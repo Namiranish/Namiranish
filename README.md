@@ -13,8 +13,9 @@
 
 ## 🔗 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://github.com/Namiranish).
-[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)](https://github.com/Namiranish)
+<p align="left">
+<a href="https://www.linkedin.com/in/namira-anis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/namira-anis" height="30" width="40" /></a>
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>

@@ -31,18 +31,18 @@
 
 <table>
   <tr>
-    <!-- Languages and Tools Section -->
+    <!-- Languages Section -->
     <td align="center" width="50%">
-      <h4>Languages and Tools</h4>
+      <h4>Languages</h4>
       <p align="center">
         <!-- CSS -->
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
-        </a> 
+        </a>
         <!-- HTML -->
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-        </a> 
+        </a>
         <!-- JavaScript -->
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -54,9 +54,9 @@
       </p>
     </td>
 
-    <!-- Other Tools Section -->
+    <!-- Tools Section -->
     <td align="center" width="50%">
-      <h4>Other Tools</h4>
+      <h4>Tools</h4>
       <p align="center">
         <!-- Node.js -->
         <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
@@ -67,4 +67,22 @@
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
         </a>
         <!-- MongoDB -->
-        <a href="https://www.mongodb.com/" target="_
+        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=namiranish&show_icons=true&locale=en&layout=compact&theme=radical" alt="Namirah's Most Used Languages" style="margin-right: 20px;" />
+  
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=namiranish&theme=radical" alt="Namirah's GitHub Stats" />
+</p>

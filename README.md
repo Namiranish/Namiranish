@@ -25,12 +25,11 @@
 
 ---
 
-## 🛠️ Languages and Tools
-
 <div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <div style="flex: 1; min-width: 250px;">
-      <h3 align="center">Programming Languages & Frameworks</h3>
+  <h3 align="center">Programming Languages & Frameworks</h3>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+
+    <div style="flex: 1; min-width: 250px; margin: 0 20px;">
       <p align="center">
         <!-- HTML -->
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -63,12 +62,13 @@
       </p>
     </div>
 
-    <div style="flex: 1; min-width: 250px;">
+    <div style="flex: 1; min-width: 250px; margin: 0 20px;">
       <h3 align="center">Most Used Languages</h3>
       <p align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=namiranish&show_icons=true&locale=en&layout=compact" alt="Namirah Anis Most Used Languages" />
       </p>
     </div>
+
   </div>
 </div>
 

@@ -31,7 +31,7 @@
 
 ### Programming Languages & Frameworks  
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+<div style="display: flex; justify-content: space-around; align-items: center;">
 
 <div style="flex: 1; margin: 10px;">
 

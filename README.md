@@ -69,9 +69,6 @@
 </div>
 
 <div style="flex: 1; margin: 10px;">
-
-### Most Used Languages  
-
 <p align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=namiranish&show_icons=true&locale=en&layout=compact" alt="Namirah Anis Most Used Languages" />
 </p>
